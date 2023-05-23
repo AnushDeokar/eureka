@@ -1,0 +1,12 @@
+body {
+    height: 200px;
+    position: relative;
+}
+.hello {
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
